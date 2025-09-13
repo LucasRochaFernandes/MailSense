@@ -1,0 +1,16 @@
+Assunto: Problema ao gerar o extrato de investimentos
+
+Prezada equipe de suporte,
+
+Estou tentando gerar o extrato consolidado dos meus investimentos referente ao último trimestre através do portal do cliente, mas estou recebendo uma mensagem de erro (código 503) e o documento não é gerado.
+
+Já tentei limpar o cache do navegador e utilizar uma janela anônima, mas o problema persiste.
+
+Poderiam, por favor, verificar o que está ocorrendo ou gerar o extrato para mim e enviar para este email? Preciso do documento com certa urgência.
+
+Meu ID de cliente é 84321.
+
+Agradeço a atenção.
+
+Atenciosamente,
+Carlos Mendes
